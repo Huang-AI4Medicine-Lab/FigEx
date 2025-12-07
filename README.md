@@ -1,7 +1,7 @@
 # FigEx: Aligned Extraction of Scientific Figures and Captions
 
 - [x] Training code for FigEx 
-- [ ] Inference pipeline (Lenna-based)
+- [ ] Inference pipeline
 - [ ] Baseline implementations
 
 ---
