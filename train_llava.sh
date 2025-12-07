@@ -1,0 +1,1 @@
+python train_llava.py --ckpt-path weights/Lenna-7B --dataset-path ./datasets/medicat/train --val-dataset-path ./datasets/medicat/val --batch-size 1 --epochs 10 --lr 0.00001 --weight-decay 0.01 --num-workers 4 --lora-r 16 --lora-alpha 32 --lora-dropout 0.005 --lora-target-modules "q_proj,k_proj,v_proj,out_proj,mlp.gate_proj,mlp.down_proj,mlp.up_proj"
