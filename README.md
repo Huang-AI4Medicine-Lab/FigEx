@@ -18,7 +18,8 @@ pip install -r requirements.txt
 
 ## Training Usage (Lenna-based)
 
-We build FigEx on top of the **[Lenna](https://github.com/Meituan-AutoML/Lenna)** pre-trained weights.
+We build FigEx on top of the **[Lenna](https://github.com/Meituan-AutoML/Lenna)**, **[LLaVA](https://github.com/haotian-liu/LLaVA)**, and **[YOLOS](https://github.com/hustvl/YOLOS)** pre-trained weights; our implementation is **inspired by** their open-source codebases.
+
 
 Run the Stage-2 training script for FigEx:
 
