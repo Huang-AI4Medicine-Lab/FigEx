@@ -6,6 +6,16 @@
 
 ---
 
+## Introduction
+This is the official code repository for the paper **[FigEx: Aligned Extraction of Scientific Figures and Captions](https://aclanthology.org/2025.findings-emnlp.899/)**. We propose FigEx, a vision-language model to extract aligned pairs of subfigures and subcaptions from scientific papers. FigEx improves subfigure detection AP^b over Grounding DINO by 0.023 and boosts caption separation BLEU over Llama-2-13B by 0.465.
+
+## Requirement
+Install all the required packages.
+
+```
+pip install -r requirements.txt
+```
+
 ## Training Usage (Lenna-based)
 
 We build FigEx on top of the **[Lenna](https://github.com/Meituan-AutoML/Lenna)** pre-trained weights.
