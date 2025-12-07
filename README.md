@@ -12,16 +12,21 @@ We build FigEx on top of the **[Lenna](https://github.com/Meituan-AutoML/Lenna)*
 
 Run the Stage-2 training script for FigEx:
 
-```bash
+```
 bash train_llava.sh
+```
 
 Run the Stage-3 training script for FigEx:
 
-```bash
+```
 bash train_yolos_mix.sh
+```
 
 ## Training Usage (from pre-trained LLaVA)
 
+
+## Citation
+```
 @inproceedings{song2025figex,
   title        = {FigEx: Aligned Extraction of Scientific Figures and Captions},
   author       = {Song, Jifeng and Das, Arun and Cui, Ge and Huang, Yufei},
@@ -29,3 +34,4 @@ bash train_yolos_mix.sh
   pages        = {16558--16571},
   year         = {2025}
 }
+```
