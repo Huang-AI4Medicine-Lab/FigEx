@@ -2,7 +2,6 @@
 
 - [x] Training code for FigEx 
 - [ ] Inference pipeline
-- [ ] Baseline implementations
 
 ---
 
