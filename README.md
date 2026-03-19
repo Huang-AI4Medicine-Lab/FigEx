@@ -1,6 +1,7 @@
 # FigEx: Aligned Extraction of Scientific Figures and Captions
 
-- [x] Training code for FigEx 
+- [x] Training code for FigEx
+- [x] Dataset availability
 - [ ] Inference pipeline
 
 ---
@@ -9,7 +10,7 @@
 This is the official code repository for the paper **[FigEx: Aligned Extraction of Scientific Figures and Captions](https://aclanthology.org/2025.findings-emnlp.899/)**. We propose FigEx, a vision-language model to extract aligned pairs of subfigures and subcaptions from scientific papers. FigEx improves subfigure detection AP<sup>b</sup> over Grounding DINO by 0.023 and boosts caption separation BLEU over Llama-2-13B by 0.465.
 
 ## Dataset
-We introduce **BioSciFig**, a dataset of compound scientific figures from biomedical papers designed for compound figure and caption decomposition, with inter-annotator agreement for bounding box annotation (upper triangle) and caption verification (lower triangle) reported in the paper.
+We introduce **BioSciFig(https://huggingface.co/datasets/Huang-AI4Medicine-Lab/BioSci-Fig)**, a dataset of compound scientific figures from biomedical papers designed for compound figure and caption decomposition, with inter-annotator agreement for bounding box annotation (upper triangle) and caption verification (lower triangle) reported in the paper.
 
 ## Requirement
 Install all the required packages.
