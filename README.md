@@ -36,7 +36,8 @@ Run the Stage-3 training script for FigEx:
 bash train_yolos_mix.sh
 ```
 
-## Training Usage (from pre-trained LLaVA)
+## Coming Soon: FigEx+
+Building on FigEx, we are developing FigEx+, which explores a new backbone architecture with an improved performance–efficiency trade-off for real-world deployment scenarios.
 
 
 ## Citation
