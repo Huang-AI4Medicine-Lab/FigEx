@@ -2,7 +2,7 @@
 
 - [x] Training code for FigEx
 - [x] Dataset availability
-- [x] Inference pipeline
+- [x] Inference code for FigEx
 
 ---
 
