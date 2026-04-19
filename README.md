@@ -2,7 +2,7 @@
 
 - [x] Training code for FigEx
 - [x] Dataset availability
-- [ ] Inference pipeline
+- [x] Inference pipeline
 
 ---
 
@@ -34,6 +34,20 @@ Run the Stage-3 training script for FigEx:
 
 ```
 bash train_yolos_mix.sh
+```
+
+## Inference
+
+Run the inference script from the repository root:
+
+```bash
+python inference.py \
+  --cuda-device cuda:0 \
+  --ckpt-path /path/to/weights/vlm \
+  --yolos-path /path/to/weights/yolos \
+  --input-path /path/to/dataset \
+  --output-path ./results \
+  --batch-size 1
 ```
 
 ## Coming Soon: FigEx+
