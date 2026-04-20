@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Resep-YOLOS batch inference  ·  require --yolos-path
-"""
 
 import os
 import cv2
