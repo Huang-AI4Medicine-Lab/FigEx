@@ -54,10 +54,6 @@ python inference.py \
   --batch-size 1
 ```
 
-## Coming Soon: FigEx+
-Building on FigEx, we are developing FigEx+, which explores a new backbone architecture with an improved performance–efficiency trade-off for real-world deployment scenarios.
-
-
 ## Citation
 ```
 @inproceedings{song2025figex,
