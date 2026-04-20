@@ -3,6 +3,7 @@
 - [x] Training code for FigEx
 - [x] Dataset availability
 - [x] Inference code for FigEx
+- [x] Model checkpoint
 
 ---
 
