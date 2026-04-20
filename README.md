@@ -12,9 +12,9 @@ This is the official code repository for the paper **[FigEx: Aligned Extraction 
 ## Dataset
 We introduce **[BioSciFig](https://huggingface.co/datasets/Huang-AI4Medicine-Lab/BioSci-Fig)**, a dataset of compound scientific figures from biomedical papers designed for compound figure and caption decomposition, with inter-annotator agreement for bounding box annotation (upper triangle) and caption verification (lower triangle) reported in the paper.
 
-## Model
+## Model checkpoint
 
-Click the **[weights of FigEx](https://huggingface.co/Huang-AI4Medicine-Lab/FigEx)**.
+**[FigEx](https://huggingface.co/Huang-AI4Medicine-Lab/FigEx)**
 
 ## Requirement
 Install all the required packages.
