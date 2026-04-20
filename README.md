@@ -50,7 +50,7 @@ python inference.py \
   --cuda-device cuda:0 \
   --ckpt-path /path/to/weights/vlm \
   --yolos-path /path/to/weights/yolos \
-  --input-path /path/to/dataset \
+  --input-path ./examples \
   --output-path ./results \
   --batch-size 1
 ```
