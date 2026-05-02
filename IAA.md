@@ -1,0 +1,17 @@
+## Inter-Annotator Agreement for Bounding Box Annotation
+
+|   | A      | B      | C      |
+|---|--------|--------|--------|
+| A | /      | 0.9511 | 0.9039 |
+| B |        | /      | 0.8916 |
+| C |        |        | /      |
+
+---
+
+## Table Inter-Annotator Agreement for Caption Verification
+
+|   | A      | B      | C      |
+|---|--------|--------|--------|
+| A | /      | 0.9221 | 0.8911 |
+| B |        | /      | 0.8825 |
+| C |        |        | /      |
