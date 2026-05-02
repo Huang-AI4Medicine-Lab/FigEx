@@ -1,4 +1,4 @@
-## Inter-Annotator Agreement for Bounding Box Annotation
+## Bounding Box Annotation
 
 |   | A      | B      | C      |
 |---|--------|--------|--------|
@@ -8,7 +8,7 @@
 
 ---
 
-## Table Inter-Annotator Agreement for Caption Verification
+## Caption Verification
 
 |   | A      | B      | C      |
 |---|--------|--------|--------|
