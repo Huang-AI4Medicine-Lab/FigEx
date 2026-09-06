@@ -1,5 +1,7 @@
 # FigEx: Aligned Extraction of Scientific Figures and Captions
 
+![FigEx project overview](FigEx.png)
+
 - [x] Training code for FigEx
 - [x] Dataset availability
 - [x] Inference code for FigEx
