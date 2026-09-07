@@ -1,6 +1,8 @@
 # FigEx: Aligned Extraction of Scientific Figures and Captions
 
-![FigEx project overview](FigEx.png)
+<p align="center">
+  <img src="FigEx.png" alt="FigEx project overview" width="600">
+</p>
 
 - [x] Training code for FigEx
 - [x] Dataset availability
